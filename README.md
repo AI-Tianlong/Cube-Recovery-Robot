@@ -1,5 +1,7 @@
 # 两臂魔方复原机器人电机及气动手抓控制部分
 ## 最终效果[点击这里观看视频](https://www.bilibili.com/video/BV1dv4y1X7jk/?spm_id_from=333.999.0.0&vd_source=507a3507231db33770b846a9a609e78e)  
+<img width="2325" height="1304" alt="image" src="https://github.com/user-attachments/assets/72a8a599-4da9-4f48-a2bb-dfc982c91489" />
+
 
 给出了气动手抓及步进电机的控制部分
 
